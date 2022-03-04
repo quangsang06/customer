@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+
+### `npm run server`
+
+Get a full fake REST API.\
+Open [http://localhost:5000/olympic](http://localhost:5000/olympic) to view it in your browser.
+
 ### `npm start`
 
 Runs the app in the development mode.\
